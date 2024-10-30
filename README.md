@@ -19,4 +19,4 @@ git clone https://github.com/KriperPlay/nPadServer/
 cd nPadServer
 python3 server.py
 ```
-After server start he will display own address, according to which need to connect in nPad at your phone
+After server start he will display own address, according to which need to connect in [nPad](https://github.com/KriperPlay/nPad/) at your phone
