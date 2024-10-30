@@ -3,7 +3,9 @@
 
 # About
 nPad - programm which make your phone - gamepad for you PC
+
 nPadServer - server for PC
+
 NPAD WORK ONLY ON LINUX!!!
 
 # Need to install 
